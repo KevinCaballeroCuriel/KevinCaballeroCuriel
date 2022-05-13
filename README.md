@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="left">Interests</h3>
+<h3 align="left">Interests:</h3>
 
 - My interests are web development 🖥️, mobile development 📱, artificial intelligence 🤖 and process automation ⚙️ and a bit of game development 🎮.
 
